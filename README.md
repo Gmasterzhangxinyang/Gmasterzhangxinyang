@@ -1,65 +1,67 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:F78166&text=Bobby%20Zhang&fontColor=F0F6FC&fontSize=46&fontAlignY=38&desc=Dify%20Developer%20Relations%20%7C%20AI%20Agent%20Builder%20%7C%20Vibe%20Coder&descAlignY=58&descSize=16&animation=fadeIn" alt="Bobby Zhang - Dify Developer Relations, AI Agent Builder, Vibe Coder" />
+  <img src="./assets/profile-frieze.svg" width="100%" alt="Bobby Zhang profile header: classical sculpture, systems, and AI craft" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gmasterzhangxinyang?tab=followers">
-    <img src="https://img.shields.io/github/followers/Gmasterzhangxinyang?style=flat-square&label=GitHub&color=1f6feb&labelColor=0d1117" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/langgenius/dify">
-    <img src="https://img.shields.io/badge/Dify-Developer%20Relations-8A63D2?style=flat-square&labelColor=0d1117" alt="Dify Developer Relations" />
-  </a>
-  <img src="https://img.shields.io/badge/Suzhou-China-F78166?style=flat-square&labelColor=0d1117" alt="Suzhou, China" />
+  <samp>
+    AI agent builder · harness design · memory systems · Dify ecosystem
+  </samp>
 </p>
 
-```txt
-Bobby Zhang
-Developer Relations @ Dify
-
-I build useful AI workflows, cinematic developer demos, and interfaces that make complex systems feel legible.
-```
-
-## Now
-
-- Working on the Dify ecosystem: AI agents, plugins, workflows, and developer experience.
-- Exploring how product, code, and taste can meet in public demos.
-- Building small, opinionated tools that turn rough ideas into usable systems.
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,docker,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<p align="center">
+  <a href="https://github.com/langgenius/dify">Dify</a> ·
+  <a href="https://github.com/langgenius/dify-official-plugins">agent tools</a> ·
+  memory · harness ·
+  <a href="https://github.com/Gmasterzhangxinyang/RetinexMemory-for-Low-light-enhancement">computer vision</a> ·
+  Suzhou, China
 </p>
+
+---
+
+I build AI agent systems with a bias toward memory, tool use, evaluation, and developer-facing clarity.
+
+My current work lives around Dify and the agent layer: harnesses, plugins, workflows, memory patterns, docs, community, and the small details that make AI systems feel composable instead of chaotic.
+
+## Agent Work
+
+| Field | What I care about |
+| --- | --- |
+| Agent harness | Repeatable loops for planning, tool use, observation, recovery, and evaluation. |
+| Memory | Short-term context, long-term recall, retrieval design, and state that stays useful. |
+| Tool use | Plugins and external capabilities that make agents act beyond the chat box. |
+| Workflows | Agentic systems that remain inspectable, debuggable, and product-ready. |
 
 ## Selected Work
 
-| Project | What it shows |
+| Work | Note |
 | --- | --- |
-| [jarvis-amber-protocol-hud](https://github.com/Gmasterzhangxinyang/jarvis-amber-protocol-hud) | A cinematic HUD experiment: interface, motion, and AI product feeling in one place. |
-| [RetinexMemory-for-Low-light-enhancement](https://github.com/Gmasterzhangxinyang/RetinexMemory-for-Low-light-enhancement) | Computer vision research implementation for low-light image enhancement. |
-| [Dify](https://github.com/langgenius/dify) | Open-source LLM app development platform; where I work on developer relations and ecosystem building. |
-| [dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | The plugin layer that connects real tools, data, and workflows to AI applications. |
+| [dify-official-plugins](https://github.com/langgenius/dify-official-plugins) | Official plugin ecosystem connecting tools, models, data, and workflows. |
+| [dify-docs](https://github.com/langgenius/dify-docs) | Documentation and developer guides for building with Dify. |
+| [jarvis-amber-protocol-hud](https://github.com/Gmasterzhangxinyang/jarvis-amber-protocol-hud) | Interface study for agent presence, state, and cinematic feedback. |
+| [RetinexMemory-for-Low-light-enhancement](https://github.com/Gmasterzhangxinyang/RetinexMemory-for-Low-light-enhancement) | Memory-shaped research implementation for visual enhancement. |
+
+## Tools
+
+<p>
+  <code>Python</code>
+  <code>TypeScript</code>
+  <code>Dify</code>
+  <code>Agent Harness</code>
+  <code>Memory</code>
+  <code>RAG</code>
+  <code>Tool Calling</code>
+  <code>Evaluation</code>
+  <code>PyTorch</code>
+  <code>Docker</code>
+</p>
 
 ## Taste
 
-I like software that is:
-
-- Clear enough to explain in one breath.
-- Deep enough to reward a second look.
-- Useful before it is clever.
-- Designed with restraint, texture, and a little cinematic energy.
-
-## Activity
-
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gmasterzhangxinyang&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmasterzhangxinyang&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+  I like agents that feel less like magic tricks and more like well-built instruments:
+  stateful, inspectable, recoverable, and quiet until they need to act.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D1117,50:30363D,100:0D1117" alt="" />
-</p>
-
-<p align="center">
-  <i>Building in public, one readable system at a time.</i>
+  <sub>Memory gives agents continuity. Harness gives them discipline.</sub>
 </p>
