@@ -1,115 +1,52 @@
-<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Bobby Zhang AI agent profile header</title>
-  <desc id="desc">A dramatic classical Greek sculpture inspired banner fused with AI agent concepts: harness, memory, skills, tools, and evaluation.</desc>
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bobby Zhang profile header</title>
+  <desc id="desc">A minimal classical sculpture inspired profile banner with marble texture, columns, and refined typography.</desc>
+  <rect width="1200" height="420" fill="#F7F4ED"/>
+  <rect x="18" y="18" width="1164" height="384" rx="4" stroke="#171717" stroke-opacity=".18"/>
 
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#090909"/>
-      <stop offset="0.42" stop-color="#15120D"/>
-      <stop offset="1" stop-color="#E8E1D2"/>
-    </linearGradient>
-    <linearGradient id="marble" x1="166" y1="95" x2="486" y2="540" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFF9EA"/>
-      <stop offset="0.45" stop-color="#D8CCB6"/>
-      <stop offset="1" stop-color="#8B7F6C"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFE6A3"/>
-      <stop offset="1" stop-color="#B67A2E"/>
-    </linearGradient>
-    <radialGradient id="oracle" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(994 254) rotate(90) scale(252)">
-      <stop offset="0" stop-color="#F2D994" stop-opacity=".48"/>
-      <stop offset=".43" stop-color="#B9893A" stop-opacity=".14"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+  <path d="M0 78C177 35 289 124 445 82C588 44 664 38 787 73C931 115 1015 91 1200 44" stroke="#171717" stroke-opacity=".045" stroke-width="2"/>
+  <path d="M0 329C146 295 269 352 418 318C596 278 686 337 835 307C995 275 1061 311 1200 282" stroke="#171717" stroke-opacity=".05" stroke-width="2"/>
+  <path d="M62 0C116 80 92 130 136 198C185 275 178 333 135 420" stroke="#171717" stroke-opacity=".035" stroke-width="2"/>
+  <path d="M1090 0C1045 74 1057 132 1019 194C975 265 989 333 1038 420" stroke="#171717" stroke-opacity=".04" stroke-width="2"/>
 
-  <rect width="1400" height="620" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1352" height="572" rx="8" stroke="#F7E8C1" stroke-opacity=".18"/>
-  <rect x="48" y="48" width="1304" height="524" rx="3" stroke="#F7E8C1" stroke-opacity=".09"/>
-
-  <g opacity=".18">
-    <path d="M95 64V556" stroke="#F7E8C1" stroke-width="2"/>
-    <path d="M132 64V556" stroke="#F7E8C1" stroke-width="2"/>
-    <path d="M1185 64V556" stroke="#17110A" stroke-width="2"/>
-    <path d="M1222 64V556" stroke="#17110A" stroke-width="2"/>
-    <path d="M70 102H178" stroke="#F7E8C1" stroke-width="2"/>
-    <path d="M1158 102H1248" stroke="#17110A" stroke-width="2"/>
-    <path d="M70 518H178" stroke="#F7E8C1" stroke-width="2"/>
-    <path d="M1158 518H1248" stroke="#17110A" stroke-width="2"/>
+  <g opacity=".84">
+    <path d="M143 344H370" stroke="#171717" stroke-width="1.5"/>
+    <path d="M165 321H348" stroke="#171717" stroke-width="1.5"/>
+    <path d="M186 321V176" stroke="#171717" stroke-width="1.5"/>
+    <path d="M327 321V176" stroke="#171717" stroke-width="1.5"/>
+    <path d="M171 176H342" stroke="#171717" stroke-width="1.5"/>
+    <path d="M197 155H316" stroke="#171717" stroke-width="1.5"/>
+    <path d="M216 134H297" stroke="#171717" stroke-width="1.5"/>
+    <path d="M205 176C218 198 219 231 209 253C199 275 202 301 215 321" stroke="#171717" stroke-opacity=".45" stroke-width="1"/>
+    <path d="M308 176C295 198 294 231 304 253C314 275 311 301 298 321" stroke="#171717" stroke-opacity=".45" stroke-width="1"/>
   </g>
 
-  <g opacity=".22">
-    <path d="M0 181C201 88 354 236 540 141C706 56 834 126 989 169C1158 215 1261 96 1400 137" stroke="#FCE7B2" stroke-width="1.4"/>
-    <path d="M0 464C202 399 356 522 544 430C743 333 885 489 1049 414C1217 337 1294 421 1400 390" stroke="#1D150E" stroke-width="1.4"/>
+  <g transform="translate(220 79)">
+    <path d="M92 27C130 42 151 78 143 122C137 154 116 179 91 191C62 205 29 194 14 167C-3 136 3 92 24 61C40 38 63 16 92 27Z" fill="#ECE7DD" stroke="#171717" stroke-opacity=".72" stroke-width="1.6"/>
+    <path d="M55 48C77 22 118 28 135 59C144 76 145 97 141 117C127 99 105 96 85 91C66 86 47 75 55 48Z" fill="#D8D0C2" stroke="#171717" stroke-opacity=".62" stroke-width="1.3"/>
+    <path d="M71 88C77 103 71 122 62 136C77 132 95 134 107 144" stroke="#171717" stroke-opacity=".7" stroke-width="1.4"/>
+    <path d="M93 84C101 88 111 88 119 83" stroke="#171717" stroke-opacity=".7" stroke-width="1.4"/>
+    <path d="M49 86C56 90 65 90 72 86" stroke="#171717" stroke-opacity=".7" stroke-width="1.4"/>
+    <path d="M64 160C82 171 105 169 120 154" stroke="#171717" stroke-opacity=".62" stroke-width="1.4"/>
+    <path d="M52 197C35 215 28 239 29 267H170C169 235 155 211 130 194C104 213 76 214 52 197Z" fill="#E7E0D3" stroke="#171717" stroke-opacity=".72" stroke-width="1.6"/>
+    <path d="M47 229C82 246 115 246 151 228" stroke="#171717" stroke-opacity=".36" stroke-width="1.2"/>
+    <path d="M66 265C78 239 104 217 132 199" stroke="#171717" stroke-opacity=".27" stroke-width="1.2"/>
   </g>
 
-  <circle cx="967" cy="302" r="258" fill="url(#oracle)"/>
-
-  <!-- Classical statue, drawn as original vector art. -->
-  <g transform="translate(82 54)">
-    <path d="M252 58C317 71 365 124 369 198C374 279 329 344 260 362C185 382 115 334 98 258C82 185 111 116 165 79C191 61 220 51 252 58Z" fill="url(#marble)" stroke="#F9EAC4" stroke-opacity=".65" stroke-width="2"/>
-    <path d="M166 92C202 37 292 42 339 102C356 123 366 154 368 184C330 155 289 155 246 146C203 137 158 120 166 92Z" fill="#B6A88F" stroke="#F7E8C1" stroke-opacity=".42" stroke-width="2"/>
-    <path d="M180 107C194 73 230 62 261 71M211 132C239 151 282 152 329 138M160 186C183 196 209 195 230 182M285 184C310 196 337 195 355 181" stroke="#2A2118" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
-    <path d="M238 195C248 232 232 271 210 296C248 285 292 289 324 313" stroke="#2A2118" stroke-opacity=".58" stroke-width="3" stroke-linecap="round"/>
-    <path d="M203 329C243 357 306 351 340 315" stroke="#2A2118" stroke-opacity=".42" stroke-width="3" stroke-linecap="round"/>
-    <path d="M115 415C120 369 146 331 190 304C233 339 291 342 348 306C399 335 428 375 434 415L469 558H82L115 415Z" fill="url(#marble)" stroke="#F9EAC4" stroke-opacity=".65" stroke-width="2"/>
-    <path d="M115 421C208 472 335 472 434 420" stroke="#2A2118" stroke-opacity=".25" stroke-width="3"/>
-    <path d="M146 487C225 513 317 511 403 483" stroke="#2A2118" stroke-opacity=".2" stroke-width="2"/>
-    <path d="M179 557C209 493 271 416 359 331" stroke="#FDF0C5" stroke-opacity=".25" stroke-width="3"/>
-    <path d="M305 557C275 477 225 404 158 339" stroke="#2A2118" stroke-opacity=".22" stroke-width="2"/>
+  <g opacity=".88">
+    <path d="M498 105H1057" stroke="#171717" stroke-opacity=".24"/>
+    <path d="M498 315H1057" stroke="#171717" stroke-opacity=".24"/>
+    <text x="500" y="157" fill="#171717" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0">Bobby Zhang</text>
+    <text x="503" y="197" fill="#171717" fill-opacity=".62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="1.7">AI AGENT DEVELOPMENT / HARNESS / MEMORY / DIFY</text>
+    <text x="503" y="245" fill="#171717" fill-opacity=".78" font-family="Georgia, 'Times New Roman', serif" font-size="22">Agents with memory, tools, and disciplined loops.</text>
+    <text x="503" y="279" fill="#171717" fill-opacity=".56" font-family="Georgia, 'Times New Roman', serif" font-size="18">Composable systems for planning, recall, and action.</text>
   </g>
 
-  <!-- Agent graph crossing the statue and text. -->
-  <g stroke="url(#gold)" stroke-width="2" stroke-opacity=".75" filter="url(#softGlow)">
-    <path d="M410 214C520 145 626 141 725 208"/>
-    <path d="M428 338C535 279 628 288 722 362"/>
-    <path d="M703 210C790 166 875 166 956 219"/>
-    <path d="M708 360C797 418 886 410 970 349"/>
-    <path d="M725 209L722 362"/>
-    <path d="M956 219L970 349"/>
-  </g>
-
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="1.2">
-    <g filter="url(#softGlow)">
-      <circle cx="410" cy="214" r="7" fill="#FFE6A3"/>
-      <circle cx="428" cy="338" r="7" fill="#FFE6A3"/>
-      <circle cx="725" cy="209" r="8" fill="#FFE6A3"/>
-      <circle cx="722" cy="362" r="8" fill="#FFE6A3"/>
-      <circle cx="956" cy="219" r="7" fill="#FFE6A3"/>
-      <circle cx="970" cy="349" r="7" fill="#FFE6A3"/>
-    </g>
-    <text x="434" y="203" fill="#FFE6A3">MEMORY</text>
-    <text x="452" y="352" fill="#FFE6A3">SKILLS</text>
-    <text x="750" y="201" fill="#FFE6A3">HARNESS</text>
-    <text x="750" y="376" fill="#FFE6A3">TOOLS</text>
-    <text x="980" y="222" fill="#3A2610">EVAL</text>
-    <text x="994" y="354" fill="#3A2610">TRACE</text>
-  </g>
-
-  <g transform="translate(590 112)">
-    <text x="0" y="0" fill="#FFF4D5" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="0">Bobby Zhang</text>
-    <text x="2" y="48" fill="#F6D88F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="2.7">AI AGENT DEVELOPMENT</text>
-    <text x="0" y="120" fill="#FFF4D5" font-family="Georgia, 'Times New Roman', serif" font-size="34">I build agents that remember,</text>
-    <text x="0" y="164" fill="#FFF4D5" font-family="Georgia, 'Times New Roman', serif" font-size="34">choose tools, run skills,</text>
-    <text x="0" y="208" fill="#FFF4D5" font-family="Georgia, 'Times New Roman', serif" font-size="34">and survive the loop.</text>
-
-    <path d="M0 250H520" stroke="#F6D88F" stroke-opacity=".42"/>
-    <text x="0" y="294" fill="#FFF4D5" fill-opacity=".78" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">HARNESS / MEMORY / SKILLS / TOOL USE / EVALUATION</text>
-    <text x="0" y="331" fill="#FFF4D5" fill-opacity=".58" font-family="Georgia, 'Times New Roman', serif" font-size="21">From prompt experiments to disciplined agent systems.</text>
-  </g>
-
-  <g transform="translate(875 445)" opacity=".78">
-    <path d="M0 0H278" stroke="#2B1D10" stroke-opacity=".45"/>
-    <text x="0" y="35" fill="#2B1D10" font-family="Georgia, 'Times New Roman', serif" font-size="19">Memory gives continuity.</text>
-    <text x="0" y="64" fill="#2B1D10" font-family="Georgia, 'Times New Roman', serif" font-size="19">Harness gives discipline.</text>
-    <text x="0" y="93" fill="#2B1D10" font-family="Georgia, 'Times New Roman', serif" font-size="19">Skills give agents hands.</text>
+  <g transform="translate(1015 132)" opacity=".78">
+    <circle cx="28" cy="28" r="27" stroke="#171717" stroke-opacity=".22"/>
+    <path d="M28 5C46 17 50 39 37 53C20 47 9 31 15 14C19 7 23 5 28 5Z" stroke="#171717" stroke-width="1.2"/>
+    <path d="M28 5C12 18 8 39 20 53C37 48 48 30 41 14C38 8 33 5 28 5Z" stroke="#171717" stroke-width="1.2"/>
+    <path d="M8 28H48" stroke="#171717" stroke-opacity=".35"/>
+    <path d="M28 5V55" stroke="#171717" stroke-opacity=".35"/>
   </g>
 </svg>
