@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.png" width="100%" alt="Bobby Zhang - AgentCraft: harnesses, memory, and skills for AI builders" />
+  <img src="./assets/profile-hero.png" width="100%" alt="Bobby Zhang - AI Agent Builder: harnesses, memory, and skills for real AI systems" />
 </p>
 
 <p align="center">
